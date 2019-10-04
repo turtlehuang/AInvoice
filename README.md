@@ -2,9 +2,12 @@
 Author:
 YuLong Huang, LongYing Lin, ChiaChe Sa, HsuanHuai Wong
 
-v5.0
--Import EAST model, Classifier model, filter module to detect whole frame
--Optimize inpot source of mobile camera
+Please download this repo then execute the main.py file.
+(If the UI do not display the vedio frame, please change the video_source = 0 or 2... in main file)
+
+v5.0 
+- Import EAST model, Classifier model, filter module to detect whole frame
+- Optimize inpot source of mobile camera
 
 
 v4.3
