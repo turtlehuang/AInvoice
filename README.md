@@ -1,3 +1,7 @@
+
+Author:
+YuLong Huang, LongYing Lin, ChiaChe Sa, HsuanHuai Wong
+
 v5.0
 -Import EAST model, Classifier model, filter module to detect whole frame
 -Optimize inpot source of mobile camera
