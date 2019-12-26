@@ -2,8 +2,6 @@
 
 <div align=center><img height=115 width=360 src="https://github.com/turtlehuang/AInvoice/blob/master/ainvoice.png"/></div>
 
-This is an example file with default selections.
-
 ## Background
 
 Here is the AInvoice, a Taiwan receipt lottery checking application, using computer vision with deep learning model to achieve digit number recognition.
@@ -38,6 +36,9 @@ Lauch the whole process takes seconds, then the UI will pop up.<br>
 | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/winning.JPG"/> | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/no.JPG"/> | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/miss.JPG"/> |
 
 </center>
+<br>
+The info displayed below the frame are digits recognition result、winning status and detail selected months' winning info respectively.
+You can select aother month's winning info by selecting the item in list and pressing "apply" buttom to update the table.
 
 ## Contributing
 
