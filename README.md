@@ -9,10 +9,12 @@ This is an example file with default selections.
 Here is the AInvoice, a Taiwan receipt lottery checking application, using computer vision with deep learning model to achieve digit number recognition.
 
 ## Install
-tensorflow == 1.12.0 <br>
-keras_retinanet <br>
-imutils<br>
-cv2、numpy、tkinter、PIL
+Please check these library and their version had been installed:
+| Library | Version |
+|:-:|:-:|
+|tensorflow-gpu | 1.13.1|
+|keras_retinanet |0.5.1 |
+|imutils | 0.5.2|
 
 
 ```
@@ -30,6 +32,12 @@ Then execute the command as below:
 ```
 python main.py
 ```
+Lauch the whole process takes seconds, then the UI will pop up.<br>
+
+| Winning | No winning | Miss |
+|:-:|:-:|:-:|
+| <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/winning.JPG"/> | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/no.JPG"/> | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/miss.JPG"/> |
+
 
 ## Contributing
 
