@@ -38,7 +38,7 @@ Lauch the whole process takes seconds, then the UI will pop up.<br>
 </center>
 <br>
 The info displayed below the frame are digits recognition result、winning status and detail selected months' winning info respectively.
-You can select aother month's winning info by selecting the item in list and pressing "apply" buttom to update the table.
+You can select others month's winning info by selecting the item in list and pressing "apply" buttom to update the table.
 
 ## Contributing
 
