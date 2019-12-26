@@ -1,6 +1,6 @@
 # AInvoice
 
-![banner]()<br>
+![alt text](https://github.com/turtlehuang/AInvoice/blob/master/ainvoice.png)
 
 This is an example file with default selections.
 
