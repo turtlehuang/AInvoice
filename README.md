@@ -10,6 +10,7 @@ Here is the AInvoice, a Taiwan receipt lottery checking application, using compu
 
 ## Install
 Please check these library and their version had been installed:
+
 | Library | Version |
 |:-:|:-:|
 |tensorflow-gpu | 1.13.1|
@@ -49,8 +50,7 @@ LongYing Lin<br>
 ChiaChe Sa<br>
 HsuanHuai Wong
 
-
-
+## History
 v5.0 
 - Import EAST model, Classifier model, filter module to detect whole frame
 - Optimize inpot source of mobile camera
@@ -58,6 +58,6 @@ v5.0
 v4.3
 - Improved wining info display
 - Add 5.6/2019 wining table
-- 
+
 v4.2
 - Add threading
