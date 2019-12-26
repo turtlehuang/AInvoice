@@ -17,10 +17,6 @@ Please check these library and their version had been installed:
 |keras_retinanet |0.5.1 |
 |imutils | 0.5.2|
 
-
-```
-```
-
 ## Usage
 Please specify the camera source in main.py file<br>
 
