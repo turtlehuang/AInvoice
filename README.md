@@ -35,9 +35,11 @@ python main.py
 Lauch the whole process takes seconds, then the UI will pop up.<br>
 
 <center>
+  
 | Winning | No winning | Miss |
 |:-:|:-:|:-:|
 | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/winning.JPG"/> | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/no.JPG"/> | <img height=350 width=200 src="https://github.com/turtlehuang/AInvoice/blob/master/miss.JPG"/> |
+
 </center>
 
 ## Contributing
